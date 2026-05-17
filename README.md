@@ -7,6 +7,14 @@ DevBox! which is an all-in-one developer utility application focused on API test
 
 ---
 
+# Download
+
+## Latest APK
+
+[⬇ Download DevBox APK](https://github.com/Tanishq172006/devbox/releases/download/v1.0.0/app-release.apk)
+
+---
+
 # Features
 
 ## Networking Tools
